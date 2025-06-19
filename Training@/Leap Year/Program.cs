@@ -1,7 +1,8 @@
 ﻿using System;
 
 
-namespace Leap_Year
+namespace Powers
+
 {
     internal class Program
     {
